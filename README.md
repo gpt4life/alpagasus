@@ -1,5 +1,5 @@
 # AlpaGasus
-The unofficial implementation of "AlpaGasus: Training a better Alpaca with Fewer data."
+The unofficial implementation of "AlpaGasus: Training a better Alpaca with Fewer data." Trained models are available at the [Huggingface hub](https://huggingface.co/gpt4life).
 
 ## Setup
 - Set up the environment of [Alpaca](https://github.com/tatsu-lab/stanford_alpaca).
@@ -46,11 +46,13 @@ sh run_eval.sh
 
 ## Citation
 If you think it is a useful repo, please cite the paper:
-```
-@article{chen2023instructzero,
-  title={InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models},
-  author={Chen, Lichang and Chen, Jiuhai and Goldstein, Tom and Huang, Heng and Zhou, Tianyi},
-  journal={arXiv preprint arXiv:2306.03082},
-  year={2023}
+```bibtex
+@misc{chen2023alpagasus,
+      title={AlpaGasus: Training A Better Alpaca with Fewer Data}, 
+      author={Lichang Chen and Shiyang Li and Jun Yan and Hai Wang and Kalpa Gunaratna and Vikas Yadav and Zheng Tang and Vijay Srinivasan and Tianyi Zhou and Heng Huang and Hongxia Jin},
+      year={2023},
+      eprint={2307.08701},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
