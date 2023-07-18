@@ -1,0 +1,1 @@
+python chatgpt_rating.py -o alpaca_52k_rating.json --batch_size 5
