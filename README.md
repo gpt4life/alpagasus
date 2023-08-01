@@ -1,6 +1,10 @@
 # AlpaGasus
 The unofficial implementation of "AlpaGasus: Training a better Alpaca with Fewer data." Trained models are available at the [Huggingface hub](https://huggingface.co/gpt4life).
 
+## News
++ Release the selected 9k data (chatgpt_selected_data/alpaca_t45.json).
++ Update the evaluator engine "GPT-3.5-turbo-0613" to "GPT-3.5-turbo-0301"
+
 ## Setup
 - Set up the environment of [Alpaca](https://github.com/tatsu-lab/stanford_alpaca).
 
