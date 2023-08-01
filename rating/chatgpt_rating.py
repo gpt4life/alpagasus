@@ -126,14 +126,14 @@ if __name__ == "__main__":
             batch_predictions = asyncio.run(
                 dispatch_openai_requests(
                     messages_list=message_list[i:i+batch_size],
-                    model="gpt-3.5-turbo-0613",
+                    model="gpt-3.5-turbo-0301",
                     temperature=0.0,
                     max_tokens=args.max_tokens,
                     top_p=1.0,
                 )
             )
             predictions += batch_predictions
-            i += 10
+            i += batch_size
             wait_base = 10
             pbar.update(batch_size)
         except:
