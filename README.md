@@ -1,4 +1,4 @@
-# AlpaGasus
+<h1 align="center">AlpaGasus: Training a Better Alpaca Model with Fewer Data</h1>
 The unofficial implementation of "AlpaGasus: Training a better Alpaca with Fewer data." Trained models are available at the [Huggingface hub](https://huggingface.co/gpt4life).
 
 ## Setup
