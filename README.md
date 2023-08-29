@@ -1,5 +1,8 @@
 <h1 align="center">AlpaGasus: Training a Better Alpaca Model with Fewer Data</h1>
 The unofficial implementation of "AlpaGasus: Training a better Alpaca with Fewer data." Trained models are available at the [Huggingface hub](https://huggingface.co/gpt4life).
+
+## [Project page](https://lichang-chen.github.io/AlpaGasus/) | [Paper](https://arxiv.org/abs/2307.08701) | [Huggingface](https://huggingface.co/gpt4life/)
+
 This repo contains:
 
 - The filtered data used for instruction-finetuning the model.
