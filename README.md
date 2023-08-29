@@ -7,6 +7,8 @@ This repo contains:
 - The scripts for fine-tuning the model.
 - The code and scripts for the evaluations. 
 
+Note: thanks to the community for providing useful feedbacks, which really stimulates us to a better open-source.
+
 ## Setup
 - Set up the environment of [Alpaca](https://github.com/tatsu-lab/stanford_alpaca).
 - Stay tuned!
