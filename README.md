@@ -2,10 +2,10 @@
 The unofficial implementation of "AlpaGasus: Training a better Alpaca with Fewer data." Trained models are available at the [Huggingface hub](https://huggingface.co/gpt4life).
 This repo contains:
 
-1. The filtered data used for instruction-finetuning the model.
-2. The code for filtering the data.
-3. The scripts for fine-tuning the model.
-4. The code and scripts for the evaluations. 
++ The filtered data used for instruction-finetuning the model.
++ The code for filtering the data.
++ The scripts for fine-tuning the model.
++ The code and scripts for the evaluations. 
 
 ## Setup
 - Set up the environment of [Alpaca](https://github.com/tatsu-lab/stanford_alpaca).
