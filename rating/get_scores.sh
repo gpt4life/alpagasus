@@ -1,0 +1,1 @@
+python get_scores.py -o claude_52k_scores.json --file claude_accuracy_52k.json
