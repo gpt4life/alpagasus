@@ -32,7 +32,7 @@ if __name__ == '__main__':
     parser.add_argument(
         "--file_a",
         type=str,
-        help='the original alpaca file'        
+        help='the original alpaca(the original data) file'        
     )
     parser.add_argument(
         '--file_b',

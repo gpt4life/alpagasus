@@ -1,1 +1,0 @@
-python filter.py -o claude_t45.json -t 4.5 --file_a alpaca_data.json --file_b claude_52k_scores.json

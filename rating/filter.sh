@@ -1,0 +1,1 @@
+python rating/filter.py -o helpfulness_t45.json -t 4.5 --file_a ./data/original/alpaca_data.json --file_b ./new_file/output_helpfulness_52k.json
