@@ -32,8 +32,9 @@ export YOUR_CLAUDE_API_KEY
 ```
 After the rating, you will need to use `rating/filter.py` and `rating/get_scores.py` to process your reviews obtained from ChatGPT/Claude.
 
-## The filtered data
-We provide the filtered data here for reproducing the results in our paper: `filtered_data/claude_t45.json` and `filtered_data/chatgpt_9k.json`. t45 means the threshold is 4.5 and chatgpt/claude means the prompted models. We also provide with the `random_9k.json` file which is randomly selected from the original Alpaca dataset.
+## The structure of data
+
+We provide the filtered data here for reproducing the results in our paper: `data/filtered/claude_t45.json` and `data/filtered/chatgpt_9k.json`. t45 means the threshold is 4.5 and chatgpt/claude means the prompted models. We also provide with the `data/random/random_9k.json` file which is randomly selected from the original Alpaca dataset.
 
 
 ## Training
