@@ -73,12 +73,10 @@ sh run_eval.sh
 ## Citation
 If you think it is a useful repo, please cite the paper:
 ```bibtex
-@misc{chen2023alpagasus,
-      title={AlpaGasus: Training A Better Alpaca with Fewer Data}, 
-      author={Lichang Chen and Shiyang Li and Jun Yan and Hai Wang and Kalpa Gunaratna and Vikas Yadav and Zheng Tang and Vijay Srinivasan and Tianyi Zhou and Heng Huang and Hongxia Jin},
-      year={2023},
-      eprint={2307.08701},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{chen2023alpagasus,
+  title={Alpagasus: Training a better alpaca with fewer data},
+  author={Chen, Lichang and Li, Shiyang and Yan, Jun and Wang, Hai and Gunaratna, Kalpa and Yadav, Vikas and Tang, Zheng and Srinivasan, Vijay and Zhou, Tianyi and Huang, Heng and others},
+  journal={arXiv preprint arXiv:2307.08701},
+  year={2023}
 }
 ```
