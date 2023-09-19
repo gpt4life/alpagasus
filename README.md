@@ -21,6 +21,7 @@ Note: thanks to the community for providing useful feedbacks, which really stimu
 ## News
 - [2023.9] We really appreciate the effort by @[gauss5930](https://github.com/gauss5930) and @[YooYunS](https://github.com/YooYunS)  who implemented the QLoRA version of Alpagasus-7B and 13B. If you do not have enough computational resources, please refer to their repo: [Alpagasus2-QLoRA](https://github.com/gauss5930/AlpaGasus2-QLoRA)
 - [2023.9] We also filter the [Databricks Dolly](https://huggingface.co/datasets/databricks/databricks-dolly-15k) dataset, which contains 15k data and is originally considered as the high-quality human-written dataset. We release the filtered data which contain only 20% of the original data. Training with filtered dataset can make the model perform much better than with the original 15k data.
+- [2023.9] We plan to release all the GPT-4 ratings in the next month.
 
 
 ## Setup
