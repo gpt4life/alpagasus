@@ -7,3 +7,5 @@ torch
 sentencepiece
 tokenizers>=0.13.3
 wandb
+anthropic
+deepspeed
